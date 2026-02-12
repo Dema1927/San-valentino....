@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Per Sahib ❤️</title>
+<head><title>Per Sahib ❤️</title>
 </head>
 <body bgcolor="#ffe5ec" text="#800f2f">
     <center>
